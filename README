@@ -1,0 +1,3 @@
+# Generate signature keys
+
+Run `KeyGenerator.exe -o test gen_signature_key -s "YOUR_PLAIN_PASSWORD"` to generate the signature key `test.pub`.
